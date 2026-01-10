@@ -2,7 +2,7 @@ library(tidyquant)
 library(tidyverse)
 library(PerformanceAnalytics)
 
-# 1. Lấy dữ liệu HPG (Mã này Yahoo ít khi chặn)
+# 1. Lấy dữ liệu HPG 
 hpg_price <- tq_get("HPG.VN", from = "2023-01-01", to = "2024-12-31")
 
 # 2. Tính tỷ suất sinh lời
