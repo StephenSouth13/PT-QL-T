@@ -1,0 +1,34 @@
+
+============================================================
+BÁO CÁO PHÂN TÍCH ĐỊNH LƯỢNG DANH MỤC ĐẦU TƯ
+Sinh viên thực hiện: Lê Văn Phú
+Dữ liệu thực tế giai đoạn: 2024 - 2026
+============================================================
+
+CHƯƠNG 1: PHÂN TÍCH KỸ THUẬT CỔ PHIẾU MBB
+Dựa trên diễn biến giá thực tế tại Hình 1, MBB đang vận hành trong một chu kỳ xác lập rõ nét. 
+- Hệ thống đường SMA: Giá hiện tại đang phản ứng tốt với các ngưỡng hỗ trợ SMA, củng cố xu hướng tăng.
+- Động lượng: Chỉ báo MACD và RSI cho thấy dòng tiền vẫn duy trì sự ổn định, tạo đà cho các nhịp tăng trưởng tiếp theo.
+
+CHƯƠNG 2: ĐẶC TÍNH THỐNG KÊ VÀ RỦI RO PHÂN PHỐI
+Kết quả định lượng cho thấy những đặc điểm quan trọng về lợi nhuận:
+- Lợi nhuận kỳ vọng: Mã có lợi nhuận cao nhất là VIC với mức 89.06%/năm.
+- Rủi ro (Độ lệch chuẩn): VIC là mã biến động mạnh nhất (43.21%).
+- Hệ số nhọn (Kurtosis): Đa số các mã ghi nhận Kurtosis dương (Ví dụ: MBB đạt 2.26), xác nhận hiện tượng "đuôi dày" và rủi ro biến cố cực đoan.
+
+CHƯƠNG 3: TỐI ƯU HÓA DANH MỤC THEO LÝ THUYẾT MARKOWITZ
+Phân tích ma trận tương quan (Hình 3) cho thấy cơ hội đa dạng hóa:
+- Cặp cổ phiếu có tương quan thấp nhất là VIC và PLX với hệ số rho = 0.09.
+- Việc kết hợp các mã này giúp triệt tiêu rủi ro phi hệ thống đáng kể, hướng tới danh mục phương sai tối thiểu (MVP).
+
+CHƯƠNG 4: MÔ HÌNH ĐỊNH GIÁ TÀI SẢN VỐN (CAPM)
+Dựa trên hệ số Beta thực tế:
+- Nhóm cổ phiếu tấn công: VIC, PLX (Hệ số Beta > 1).
+- Nhóm cổ phiếu phòng thủ: MBB, VNM, FPT (Hệ số Beta <= 1).
+- Kiểm định Alpha: Kết quả cho thấy hệ số Alpha không có ý nghĩa thống kê đáng kể (p > 0.05), minh chứng thị trường đang định giá sát rủi ro hệ thống.
+
+KẾT LUẬN VÀ KHUYẾN NGHỊ
+1. Duy trì danh mục đa ngành để tận dụng hiệu ứng đa dạng hóa của Markowitz.
+2. Thiết lập Stop-loss linh hoạt vì thị trường có rủi ro đuôi dày (Fat-tails) cao.
+3. Ưu tiên các mã có tính phòng thủ khi thị trường có dấu hiệu biến động mạnh.
+============================================================
