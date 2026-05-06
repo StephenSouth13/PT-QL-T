@@ -4,7 +4,7 @@ BÁO CÁO PHÂN TÍCH ĐỊNH LƯỢNG DANH MỤC ĐẦU TƯ
 Sinh viên thực hiện: Lê Văn Phú
 Dữ liệu thực tế giai đoạn: 2024 - 2026
 ============================================================
-
+Bao_Cao_Phu_500k.txt
 CHƯƠNG 1: PHÂN TÍCH KỸ THUẬT CỔ PHIẾU MBB
 Dựa trên diễn biến giá thực tế tại Hình 1, MBB đang vận hành trong một chu kỳ xác lập rõ nét. 
 - Hệ thống đường SMA: Giá hiện tại đang phản ứng tốt với các ngưỡng hỗ trợ SMA, củng cố xu hướng tăng.
